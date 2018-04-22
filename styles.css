@@ -1,0 +1,10 @@
+.container{
+  height: 100vh;
+}
+.holder {
+  height: 50px;
+  background-color: lightgray;
+}
+button{
+  margin-bottom: 20px
+}
