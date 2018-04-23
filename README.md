@@ -6,4 +6,4 @@ var mySalutation = Salutation("name", "last"), and works invoking them through m
 
 The uncommented out library should work as directed form the assignment sheet. 
 
-The commented library will also expose the methods, but works as Salutation.fullNmae("first", "last")
+The commented library will also expose the methods, but works as Salutation.fullName("first", "last")
