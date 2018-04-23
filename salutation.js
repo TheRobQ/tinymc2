@@ -20,7 +20,7 @@
     else return new Names(first, last)
   }
    var obj = {Names: Names};
-   //expose to global scope
+   //exposed to global scope
    Salutation =  obj.Names
 })();
 
